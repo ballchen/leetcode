@@ -162,3 +162,13 @@ var addBinary = function(a, b) {
   return output;
 };
 */
+
+
+/*
+奇妙的解法
+加上 "0b" 讓 bigInt 知道他是二進位（0x 是十進位） 然後直接相加轉成 String
+var addBinary = function(a, b) {
+    return (BigInt("0b"+a) + BigInt("0b"+b)).toString(2);
+}
+
+*/
