@@ -18,20 +18,19 @@
  */
 var reverseList = function(head) {
   let pivot = head;
-  let previousNode = null;
+  let newListHead = null;
   let nextNode = null;
   while(pivot) {
     nextNode = pivot.next;
 
 
-    pivot.next = previousNode
-    
-    previousNode = pivot;
-
+    pivot.next = newListHead
+  
+    newListHead = pivot;
     pivot = nextNode;
   }
 
-  return previousNode
+  return newListHead
 };
 // @lc code=end
 
@@ -77,4 +76,16 @@ var reverseList = function(head) {
 };
 
 3. 更簡單的 iteration
+
+null -> 1 -> 2 -> 3 -> 4 -> 5 -> null
+
+newListhead = null
+pivot = 1
+next = 2
+
+newListhead = 1 -> null
+pivot = 2 
+next = 3
+
+....
 */
