@@ -83,6 +83,28 @@ Use two while
 第一個 while 把 mother queue 的 nodes 推進 level queue
 進到第二個 while 一個一個 dequeue 處理 level queue 裡的 node，並把該 node 的下一個 level 的 child 推到 mother queue 
 
+
+記得用 shift
+*/
+
+/* 
+Recursive 
+var levelOrder = function(root) {
+    let results = [];
+    function dfs(node, level) {
+        if(!node) return;
+        if(!results[level]) {
+            results.push([]);
+        }
+        results[level].push(node.val);
+        dfs(node.left, level + 1);
+        dfs(node.right, level + 1);
+    }
+    
+    dfs(root, 0)
+    
+    return results;
+};
 */
 
 

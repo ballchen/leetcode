@@ -8,3 +8,6 @@
 - 234.palindrome-linked-list (複習Floyd's + Reversal Solution)
 - 100.same-tree (要 recursive + iteration 秒寫出來)
 - 190.reverse-bits (要熟悉位元運算 bit wise operations)
+- 2.add-two-numbers 
+- 15.3sum (寫熟 寫順)
+- 150.evaluate-reverse-polish-notation (要熟悉 stack 的實作+ 注意 input 順序)
