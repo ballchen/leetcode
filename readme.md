@@ -13,3 +13,5 @@
 - 150.evaluate-reverse-polish-notation (要熟悉 stack 的實作+ 注意 input 順序)
 - 322.coin-change (要熟悉 DP 的實作) 跟鬼一樣
 - 98.validate-binary-search-tree (要熟悉 recursive 的實作)
+- 208.implement-trie-prefix-tree (使用 tree 並快速寫出答案)
+- 994.rotting-oranges 加速寫完
