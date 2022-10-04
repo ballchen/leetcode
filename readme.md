@@ -15,3 +15,6 @@
 - 98.validate-binary-search-tree (要熟悉 recursive 的實作)
 - 208.implement-trie-prefix-tree (使用 tree 並快速寫出答案)
 - 994.rotting-oranges 加速寫完
+- 33.search-in-rotated-sorted-array (要熟悉 binary search 的實作)
+- 75.sort-colors (用一個 while 快速寫完)
+- 231.power-of-two (要熟悉位元運算 bit wise operations)
