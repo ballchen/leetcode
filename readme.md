@@ -18,3 +18,6 @@
 - 33.search-in-rotated-sorted-array (要熟悉 binary search 的實作)
 - 75.sort-colors (用一個 while 快速寫完)
 - 231.power-of-two (要熟悉位元運算 bit wise operations)
+- 46.permutations 寫熟
+- 236.lowest-common-ancestor-of-a-binary-tree (要熟悉 recursive 的實作) 並且跟 binary search tree 的版本一起練習
+- 721.accounts-merge 重作一遍 用 graph + dfs 的方法
