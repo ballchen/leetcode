@@ -21,3 +21,5 @@
 - 46.permutations 寫熟
 - 236.lowest-common-ancestor-of-a-binary-tree (要熟悉 recursive 的實作) 並且跟 binary search tree 的版本一起練習
 - 721.accounts-merge 重作一遍 用 graph + dfs 的方法
+- 17.letter-combinations-of-a-phone-number
+- 202.happy-number
