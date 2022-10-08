@@ -24,3 +24,7 @@
 - 17.letter-combinations-of-a-phone-number
 - 202.happy-number
 - 981.time-based-key-value-store 重寫一次
+- 8.string-to-integer-atoi 寫熟
+- 139.word-break (要熟悉 DP 的實作) 複習！！！
+- 5.longest-palindromic-substring 想辦法簡化 並分析複雜度
+- 105.construct-binary-tree-from-preorder-and-inorder-traversal 看有沒有更快的方法
