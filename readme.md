@@ -28,3 +28,5 @@
 - 139.word-break (要熟悉 DP 的實作) 複習！！！
 - 5.longest-palindromic-substring 想辦法簡化 並分析複雜度
 - 105.construct-binary-tree-from-preorder-and-inorder-traversal 看有沒有更快的方法
+- 416.partition-equal-subset-sum (要熟悉拆解問題以及 DP 的實作)
+- 79.word-search (重寫，用 board 來記 visited)
