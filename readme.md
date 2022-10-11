@@ -30,3 +30,4 @@
 - 105.construct-binary-tree-from-preorder-and-inorder-traversal 看有沒有更快的方法
 - 416.partition-equal-subset-sum (要熟悉拆解問題以及 DP 的實作)
 - 79.word-search (重寫，用 board 來記 visited)
+- 438.find-all-anagrams-in-a-string (要熟悉 sliding window 的實作) 重寫！
