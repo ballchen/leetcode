@@ -32,3 +32,6 @@
 - 79.word-search (重寫，用 board 來記 visited)
 - 438.find-all-anagrams-in-a-string (要熟悉 sliding window 的實作) 重寫！
 - 310.minimum-height-trees graph 重寫
+- 621.task-scheduler 重寫 熟悉 heap
+- 146.lru-cache 重寫 double-linked list and hashmap
+- 76.minimum-window-substring 重寫 sliding window
