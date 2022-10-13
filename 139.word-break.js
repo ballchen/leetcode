@@ -13,9 +13,13 @@
 var wordBreak = function(s, wordDict) {
   let dp = new Array(s.length + 1).fill(false);
   dp[s.length] = true;
-  for(let i = s.length-1; i > -1; i --) {
+  for(let i = s.length - 1; i >= 0; i--) {
     for(let word of wordDict) {
-      if((word.length + i <= s.length) && s.substring(i, i + word.length) === word) {
+      if(
+        i + word.length <= s.length &&
+        //這邊注意！
+        s.substring(i, i + word.length) == word
+      ) {
         dp[i] = dp[i + word.length]
       }
       if(dp[i]) {
@@ -23,7 +27,8 @@ var wordBreak = function(s, wordDict) {
       }
     }
   }
-  return dp[0];
+
+  return dp[0]
 };
 
 
