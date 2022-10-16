@@ -35,3 +35,6 @@
 - 621.task-scheduler 重寫 熟悉 heap
 - 146.lru-cache 重寫 double-linked list and hashmap
 - 76.minimum-window-substring 重寫 sliding window
+- 4.median-of-two-sorted-arrays 重寫
+- 295.find-median-from-data-stream 重寫 五分鐘內要寫完 heap 實作
+- 127.word-ladder 重寫
