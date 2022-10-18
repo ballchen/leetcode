@@ -38,3 +38,5 @@
 - 4.median-of-two-sorted-arrays 重寫
 - 295.find-median-from-data-stream 重寫 五分鐘內要寫完 heap 實作
 - 127.word-ladder 重寫
+- 23.merge-k-sorted-lists 重寫 HEAP!!!!!
+- 224.basic-calculator 重寫
