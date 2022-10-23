@@ -40,3 +40,8 @@
 - 127.word-ladder 重寫
 - 23.merge-k-sorted-lists 重寫 HEAP!!!!!
 - 224.basic-calculator 重寫
+- 148.sort-list 熟練的使用 merge sort
+- 692.top-k-frequent-words 重寫
+- 1235.maximum-profit-in-job-scheduling 重寫 熟悉 DP 的實作
+- 84.largest-rectangle-in-histogram 重寫
+- 179.largest-number 硬背吧
