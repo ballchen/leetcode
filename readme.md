@@ -45,3 +45,7 @@
 - 1235.maximum-profit-in-job-scheduling 重寫 熟悉 DP 的實作
 - 84.largest-rectangle-in-histogram 重寫
 - 179.largest-number 硬背吧
+- 863.all-nodes-distance-k-in-binary-tree 重寫
+- 124.binary-tree-maximum-path-sum 重寫
+- 895.maximum-frequency-stack 重寫
+- 1239.maximum-length-of-a-concatenated-string-with-unique-characters 重寫
