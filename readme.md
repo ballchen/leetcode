@@ -49,3 +49,7 @@
 - 124.binary-tree-maximum-path-sum 重寫
 - 895.maximum-frequency-stack 重寫
 - 1239.maximum-length-of-a-concatenated-string-with-unique-characters 重寫
+- 523.continuous-subarray-sum 練習 prefix sums
+- 77.combinations 練習 backtrack
+- 51.n-queens 練習 backtrack
+- 239.sliding-window-maximum 重寫
